@@ -1,9 +1,17 @@
+<h1 align="center">Create Awesome Github profile README</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://github.com/Don-PhDev/create-github-readme/stargazers"><img src="https://img.shields.io/github/stars/Don-PhDev/create-github-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Don-PhDev/create-github-readme/network/members"><img src="https://img.shields.io/github/forks/Don-PhDev/create-github-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/Don-PhDev/create-github-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Don-PhDev/create-github-readme?color=2b9348" alt="License Badge"/></a>
+
 ### Contents:
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
   - [License](#license)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
@@ -47,6 +55,8 @@
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
 - ["How to Stand Out on Github with Profile READMEs"](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f) - *Jessica Lim*
@@ -68,6 +78,8 @@
 - ["Static Readme Regeneration"](https://dev.to/aralroca/static-readme-regeneration-4pf2) - *Aral Roca*
 - ["How to Create a Self-Updating README.md for Your GitHub Profile"](https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) - *Thomas Guibert*
 - ["一文玩转github主页"](https://blog.holic-x.com/wv-blog/post/7ad96a5d.html) - *holic-x*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tutorials
 - ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
