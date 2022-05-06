@@ -1,4 +1,4 @@
-<h1 align="center">Create Awesome Github profile README</h1>
+<h1 align="center">:sunglasses: Create Awesome Github profile README :fire:</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github.com/Don-PhDev/create-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Don-PhDev/create-github-readme" alt="Stars Badge"/></a>
@@ -30,7 +30,7 @@
   - [References](#references) 📚
   - [License](LICENSE) 🎫
 
-Make your Github Profile look good & Inspire others. Don't forget to leave :star: if you found this helpful.
+Don't forget to leave :star: if you found this helpful. Thanks! :grin: :heart:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tools
