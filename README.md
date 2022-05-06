@@ -1,9 +1,9 @@
 <h1 align="center">Create Awesome Github profile README</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/Don-PhDev/create-github-readme/stargazers"><img src="https://img.shields.io/github/stars/Don-PhDev/create-github-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/Don-PhDev/create-github-readme/network/members"><img src="https://img.shields.io/github/forks/Don-PhDev/create-github-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/Don-PhDev/create-github-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Don-PhDev/create-github-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Don-PhDev/create-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Don-PhDev/create-github-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Don-PhDev/create-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/Don-PhDev/create-github-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/Don-PhDev/create-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Don-PhDev/create-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 ### Contents:
   - [Tools](#tools) :hammer_and_wrench:
