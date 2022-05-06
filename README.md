@@ -6,27 +6,27 @@
 <a href="https://github.com/Don-PhDev/create-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Don-PhDev/create-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 ### Contents:
-  - [Github README examples](#github-profile-readme-examples)
-      - [Sorted 🗄️](#sorted-)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
   - [Tools](#tools) :hammer_and_wrench:
   - [Articles](#articles) :page_facing_up:
   - [Video Tutorials](#tutorials) :tv:
+  - [Github README examples](#github-profile-readme-examples)
+    - [GitHub Actions 🤖](#github-actions-)
+    - [Game Mode 🚀](#game-mode-)
+    - [Code Mode 👨🏽‍💻](#code-mode-)
+    - [Dynamic Realtime 💫](#dynamic-realtime-)
+    - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
+    - [Descriptive 🗒](#descriptive-)
+    - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+    - [Typing.. Mode 🎰](#typing-mode-)
+    - [Anime 👾](#anime-)
+    - [Minimalistic ✨](#minimalistic-)
+    - [GIFS 👻](#gifs-)
+    - [Just Images 🎭](#just-images-)
+    - [Badges 🎫](#badges-)
+    - [Fancy Fonts 🖋](#fancy-fonts-)
+    - [Icons 🎯](#icons-)
+    - [Retro 😎](#retro-)
+  - [Credits](#credits) ©️
   - [License](LICENSE) 🎫
 
 Make your Github Profile look good & Inspire others. Don't forget to leave :star: if you found this helpful.
@@ -110,8 +110,6 @@ Make your Github Profile look good & Inspire others. Don't forget to leave :star
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Github Profile README examples
-
-### Sorted
 
 #### A
 - [abhigyantrips](https://github.com/abhigyantrips)
