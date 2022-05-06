@@ -6,10 +6,10 @@
 <a href="https://github.com/Don-PhDev/create-github-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Don-PhDev/create-github-readme?color=2b9348" alt="License Badge"/></a>
 
 ### Contents:
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [License](LICENSE)
+  - [Tools](#tools) :hammer_and_wrench:
+  - [Articles](#articles) :page_facing_up:
+  - [Video Tutorials](#tutorials) :tv:
+  - [License](LICENSE) 🎫
 
 Make your Github Profile look good & Inspire others. Don't forget to leave :star: if you found this helpful.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
