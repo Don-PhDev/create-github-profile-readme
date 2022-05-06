@@ -9,7 +9,6 @@
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
-  - [License](#license)
   - [License](LICENSE)
 
 Make your Github Profile look good & Inspire others. Don't forget to leave :star: if you found this helpful.
