@@ -398,3 +398,10 @@
 
 ## Credits
 All credits goes to the original authors of the GitHub profile. I don't own any content.
+
+## License & Copyright
+© 2022 Don Forrest Usbal (Don-PhDev)
+
+Licensed under the [MIT License](LICENSE)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
