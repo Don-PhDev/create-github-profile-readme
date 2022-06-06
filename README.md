@@ -707,4 +707,4 @@ Licensed under the [MIT License](LICENSE)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Make your Github Profile look good & Inspire others. Don't forget to leave :star: if you found this helpful.
+### Make your Github Profile look good & Inspire others. Don't forget to leave :star: if you found this helpful.
