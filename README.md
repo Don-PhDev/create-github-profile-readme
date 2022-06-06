@@ -693,11 +693,10 @@ Don't forget to leave :star: if you found this helpful. Thanks! :grin: :heart:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Credits
+## Credits & References
 All credits goes to the original authors of the GitHub profile. I don't own any content.
 
-## References
-Some implementations are from
+Some implementations are from:
 - [Abhishek Naidu](https://github.com/abhisheknaidu)
 - [Durgesh Samariya](https://github.com/durgeshsamariya)
 
